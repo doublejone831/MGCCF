@@ -129,5 +129,8 @@ dmypy.json
 .pyre/
 
 # Data & Data Handler
-.data
-data/
+.dataset
+dataset/
+
+# 파이참 설정 파일
+.idea
